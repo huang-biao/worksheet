@@ -10,9 +10,11 @@
 输入内容
 --------
 ![](https://github.com/coderzhongkaikai/worksheet/blob/master/photo/9964c1820e523371e0a4b01cee36e3c.jpg)
+<br/>
 生成内容
 -------
 ![](https://github.com/coderzhongkaikai/worksheet/blob/master/photo/84c9d20c5ad83b47e92bf14e9b82b78.jpg)
+<br/>
 我的创作过程
 -----------
 使用刚学的react+antd。实现布局到数据的交互。开发环境，proxy代理请求数据。
