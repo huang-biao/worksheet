@@ -10,7 +10,7 @@
 输入内容
 --------
 
-![](https://github.com/coderzhongkaikai/worksheet/tree/master/photo/9964c1820e523371e0a4b01cee36e3c.jpg)
+![](/photo/9964c1820e523371e0a4b01cee36e3c.jpg)
 <br/>
 生成内容(每次班至少一人，每人每周三次---招生办公室标准)
 -------
