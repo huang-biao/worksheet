@@ -14,7 +14,7 @@
 <br/>
 生成内容(每次班至少一人，每人每周三次---招生办公室标准)
 -------
-![](https://github.com/coderzhongkaikai/worksheet/tree/master/photo/84c9d20c5ad83b47e92bf14e9b82b78.jpg)
+![](/photo/84c9d20c5ad83b47e92bf14e9b82b78.jpg)
 <br/>
 我的创作过程
 -----------
